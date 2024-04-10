@@ -7,7 +7,7 @@ import { cleanCart } from "../redux/CartReducer";
 import axios from "axios";
 import { Entypo } from "@expo/vector-icons";
 import { FontAwesome5, MaterialIcons } from "@expo/vector-icons";
-//import RazorpayCheckout from 'react-native-razorpay';
+import RazorpayCheckout from 'react-native-razorpay';
 
 const ConfirmationScreen = () => {
   const steps = [
