@@ -1,6 +1,6 @@
 Amazon
 
-An aoo designed to replicate the popular ecommerce shopping app!
+An app designed to replicate the popular ecommerce shopping app!
 
 Instilation: Clone the repository https://github.com/aceppaluni/Ecommerce
 
